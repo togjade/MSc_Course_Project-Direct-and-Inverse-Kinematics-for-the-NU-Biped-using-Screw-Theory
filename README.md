@@ -1,0 +1,1 @@
+# MSc_Course_Project-Direct-and-Inverse-Kinematics-for-the-NU-Biped-using-Screw-Theory
